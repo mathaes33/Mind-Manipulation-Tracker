@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cambridge Analytica / Facebook",
+    "description": "Data was harvested from millions of Facebook users without informed consent and used for psychographic profiling to manipulate voter behavior.",
+    "sourceUrl": "https://www.theguardian.com/news/series/cambridge-analytica-files",
+    "manipulationType": ["Psychographic Profiling", "Data Exploitation", "Algorithmic Manipulation"],
+    "reportedDate": "2018-03-17"
+  },
+  {
+    "company": "NSA (United States)",
+    "description": "The PRISM program conducted mass surveillance by collecting data from major tech companies, including phone metadata, emails, and social media activity of millions without judicial oversight.",
+    "sourceUrl": "https://www.theguardian.com/world/prism",
+    "manipulationType": ["Mass Surveillance", "Data Exploitation"],
+    "reportedDate": "2013-06-06"
+  },
+  {
+    "company": "Government of China",
+    "description": "A national Social Credit System that uses AI, facial recognition, and big data to score citizens based on their behavior. Low scores can restrict travel, job opportunities, or access to services, often without transparency.",
+    "sourceUrl": "https://www.wired.co.uk/article/china-social-credit-system-explained",
+    "manipulationType": ["Mass Surveillance", "Algorithmic Profiling", "Social Control", "AI"],
+    "reportedDate": "2018-01-01"
+  },
+  {
+    "company": "NSO Group (Israel)",
+    "description": "The Pegasus spyware was used by multiple governments to covertly surveil the smartphones of journalists, activists, and political opposition leaders without their knowledge or consent.",
+    "sourceUrl": "https://www.theguardian.com/news/series/pegasus-project",
+    "manipulationType": ["Surveillance", "Spyware", "Targeted Attack"],
+    "reportedDate": "2021-07-18"
+  },
+  {
+    "company": "Clearview AI",
+    "description": "Scraped billions of facial images from public websites and social media to create a facial recognition database sold to law enforcement agencies without user permission or consent.",
+    "sourceUrl": "https://www.nytimes.com/interactive/2021/03/18/magazine/clearview-ai.html",
+    "manipulationType": ["Biometric Tracking", "Data Exploitation", "Facial Recognition", "Mass Surveillance", "AI"],
+    "reportedDate": "2020-01-18"
+  },
+  {
+    "company": "CIA (United States)",
+    "description": "Project MK-Ultra was a covert CIA program conducting mind control experiments on human subjects, often without their consent, using psychoactive drugs like LSD, hypnosis, and sensory deprivation.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Project_MKUltra",
+    "manipulationType": ["Psychological Ops", "Mind Control", "Medical Experimentation"],
+    "reportedDate": "1975-01-01"
+  }
+]
